@@ -1,5 +1,5 @@
 ### Hi there, I'm Natalia Joventino :wave:
-an 'always learner' adventuring in the world of technologies and development. Currently, i'm discovering myself in which programming language i'll be working the most, so there will be a bit of everything around here. :computer:
+an 'always learner' adventuring in the world of technologies and development. Currently, I'm discovering myself in which programming language I'll be working the most, so there will be a bit of everything around here. :computer:
 
 📫 How to reach me: 
 <br>
