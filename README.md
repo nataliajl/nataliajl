@@ -1,7 +1,7 @@
 ### Hi there, I'm Natalia :wave:
 an 'always learner' in the programming world of languages and tools. Currently,  I'm exploring web development tools, but there will be a bit of everything around here. :computer:
 
-📫 How to reach me: 
+📫 How to reach me:  
 <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-Natalia_Leonardo-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalialeo/)](https://www.linkedin.com/in/natalialeo/) 
 [![Gmail Badge](https://img.shields.io/badge/-natalia.jleonardo@gmail.com-B23121?style=flat-square&logo=Gmail&logoColor=red&link=mailto:natalia.jleonardo@gmail.com)](mailto:natalia.jleonardo@gmail.com)
