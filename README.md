@@ -1,5 +1,5 @@
-### Hi there, I'm Natalia Joventino :wave:
-an 'always learner' adventuring in the world of technologies and development. Currently, I'm discovering in which programming language I'll be working the most, so there will be a bit of everything around here. :computer:
+### Hi there, I'm Natalia :wave:
+an 'always learner' in the programming world of languages and tools. Currently,  I'm exploring web development tools, but there will be a bit of everything around here. :computer:
 
 📫 How to reach me: 
 <br/>
@@ -7,7 +7,7 @@ an 'always learner' adventuring in the world of technologies and development. Cu
 [![Gmail Badge](https://img.shields.io/badge/-natalia.jleonardo@gmail.com-B23121?style=flat-square&logo=Gmail&logoColor=red&link=mailto:natalia.jleonardo@gmail.com)](mailto:natalia.jleonardo@gmail.com)
 
 <!--
-**andreytdl/andreytdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nataliajl/nataliajl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
