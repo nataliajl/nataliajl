@@ -3,7 +3,6 @@
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/natalialeo/)](https://www.linkedin.com/in/natalialeo/)
-  
 [![Gmail Badge](https://img.shields.io/badge/email--000?style=social&logo=Gmail&logoColor=red&link=mailto:natalia.jleonardo@gmail.com)](mailto:natalia.jleonardo@gmail.com)
 </div>
 
