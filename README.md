@@ -1,10 +1,22 @@
-### Hi there, I'm Natalia :wave:
-an 'always learner' in the programming world of languages and tools. Currently,  I'm exploring web development tools, but there will be a bit of everything around here. :computer:
+<h1 align="center">Hi there, I'm Natalia 👋🏾</h1>
 
-📫 How to reach me:  
+<div align="center">
+  
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/natalialeo/)](https://www.linkedin.com/in/natalialeo/)
+[![Gmail Badge](https://img.shields.io/badge/email--000?style=social&logo=Gmail&logoColor=red&link=mailto:natalia.jleonardo@gmail.com)](mailto:natalia.jleonardo@gmail.com)
+</div>
+
+<h4 align="center">An 'always learner' in the programming world of languages and tools</h4>
+
+<div align="center">
+Currently, I'm exploring web development tools, but there will be a bit of everything around here 🔭
+</div>
+
 <br/>
-[![Linkedin Badge](https://img.shields.io/badge/-Natalia_Leonardo-2867b2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalialeo/)](https://www.linkedin.com/in/natalialeo/) 
-[![Gmail Badge](https://img.shields.io/badge/-natalia.jleonardo@gmail.com-B23121?style=flat-square&logo=Gmail&logoColor=red&link=mailto:natalia.jleonardo@gmail.com)](mailto:natalia.jleonardo@gmail.com)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliajl&show_icons=true&locale=en&layout=compact&theme=default" alt="ovi" />
+</p>
 
 <!--
 **nataliajl/nataliajl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
